@@ -1,0 +1,1 @@
+clang++ -std=c++17 -o program.out main.cpp
